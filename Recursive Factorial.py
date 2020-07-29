@@ -1,3 +1,5 @@
+# Uses Recursion to find Factorial of a number
+
 def fact(n):
     if n == 1:
         return 1
