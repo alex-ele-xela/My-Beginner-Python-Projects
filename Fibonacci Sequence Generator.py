@@ -1,3 +1,5 @@
+#Generates n Fibonacci Sequence Numbers
+
 def fib_gen(num):
     a = 0
     b = 1
